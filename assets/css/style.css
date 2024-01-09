@@ -164,7 +164,7 @@ span{
     width: 100%;
     color: #a0e4ef;
     border-width: 20px; 
-   
+    margin-top: -120px !important;
     display: block;
     z-index: 0;
     
@@ -177,14 +177,60 @@ span{
     margin-top: -40px !important;
 }
 
-@media (min-width: 1000px) {
-    body{
-        padding: 0 250px 0 250px;
-    }
-}
+
+
+
 
 @media (orientation: landscape) {
     body{
         padding: 0 200px 0 200px;
+    }
+}
+@media (min-width: 375px) {
+  
+    .seccion1{
+   
+        height: 180px;
+    }
+}
+
+@media (min-width: 425px) {
+   
+    .seccion1{
+   
+        height: 200px;
+    }
+}
+
+@media (min-width: 768px) {
+   
+    body{
+        padding: 0 0px 0 0px;
+    }
+    .seccion1{
+   
+        height: 330px;
+    }
+}
+
+@media (min-width: 1024px) {
+   
+    body{
+        padding: 0 0px 0 0px;
+    }
+    .seccion1{
+   
+        height: 420px;
+    }
+}
+
+@media (min-width: 1440px) {
+   
+    body{
+        padding: 0 0px 0 0px;
+    }
+    .seccion1{
+   
+        height: 590px;
     }
 }
