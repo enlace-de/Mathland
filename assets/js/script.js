@@ -32,7 +32,7 @@ function compartirPorSMS() {
 function copiarAlPortapapeles() {
     // Crea un elemento de entrada de texto temporal
     const input = document.createElement('input');
-    input.setAttribute('value', 'https://priscillabuhrle.github.io/PAU_Disenos/');
+    input.setAttribute('value', 'https://enlace-de.github.io/Mathland/');
     
     // Agrega el elemento de entrada de texto al documento
     document.body.appendChild(input);
