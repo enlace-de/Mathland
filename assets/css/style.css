@@ -4,10 +4,10 @@
 }
 
 .seccion1{
-    background-image: url(../img/Mathland--Logo---500x500px\ \(2\).png);
+    background-image: url(../img/FINAL\ MATHLAND-02.png);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 150px;
+    height: 130px;
 }
 
 /* Definición de la animación */
@@ -190,7 +190,7 @@ span{
   
     .seccion1{
    
-        height: 180px;
+        height: 150px;
     }
 }
 
@@ -198,7 +198,7 @@ span{
    
     .seccion1{
    
-        height: 200px;
+        height: 170px;
     }
 }
 
