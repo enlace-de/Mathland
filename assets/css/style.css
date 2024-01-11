@@ -4,10 +4,10 @@
 }
 
 .seccion1{
-    background-image: url(../img/FINAL\ MATHLAND-02.png);
+    background-image: url(../img/logo\ _math\ _2-01.png);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 130px;
+    height: 110px;
 }
 
 /* Definición de la animación */
@@ -190,7 +190,7 @@ span{
   
     .seccion1{
    
-        height: 150px;
+        height: 125px;
     }
 }
 
@@ -198,7 +198,7 @@ span{
    
     .seccion1{
    
-        height: 170px;
+        height: 150px;
     }
 }
 
@@ -209,7 +209,7 @@ span{
     }
     .seccion1{
    
-        height: 330px;
+        height: 270px;
     }
 }
 
@@ -220,7 +220,7 @@ span{
     }
     .seccion1{
    
-        height: 420px;
+        height: 370px;
     }
 }
 
@@ -231,6 +231,6 @@ span{
     }
     .seccion1{
    
-        height: 590px;
+        height: 500px;
     }
 }
