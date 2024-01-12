@@ -1,0 +1,13 @@
+{
+    "name": "Mathland",
+    "short_name": "Mathland",
+    "icons": [
+      {
+        "src": "./assets/img/logo_math_2-01",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "https://enlace-de.github.io/Mathland/",
+    "display": "standalone"
+  }

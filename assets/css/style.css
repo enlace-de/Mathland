@@ -177,6 +177,13 @@ span{
     margin-top: -40px !important;
 }
 
+.btn_aplicacion{
+    background-color: white;
+    border-color: #a0e4ef !important;
+    color: #a0e4ef !important;
+    border-radius: 8px;
+}
+
 
 
 
