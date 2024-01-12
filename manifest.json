@@ -3,7 +3,7 @@
     "short_name": "Mathland",
     "icons": [
       {
-        "src": "./assets/img/logo_math_2-01",
+        "src": "./assets/img/chico.png",
         "sizes": "192x192",
         "type": "image/png"
       }
