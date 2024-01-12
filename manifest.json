@@ -8,6 +8,6 @@
         "type": "image/png"
       }
     ],
-    "start_url": "https://enlace-de.github.io/Mathland/",
+    "start_url": "./index",
     "display": "standalone"
   }
