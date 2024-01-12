@@ -90,12 +90,14 @@ logoImage.addEventListener('click', () => {
 let deferredPrompt;
 
 window.addEventListener('beforeinstallprompt', (e) => {
+  // Prevent Chrome 67 and earlier from automatically showing the prompt
   e.preventDefault();
+  // Stash the event so it can be triggered later.
   deferredPrompt = e;
 });
 
 function addToHomeScreen() {
-  if (typeof deferredPrompt !== 'undefined') {
+  if (deferredPrompt) {
     deferredPrompt.prompt();
     deferredPrompt.userChoice.then((choiceResult) => {
       if (choiceResult.outcome === 'accepted') {
@@ -109,6 +111,7 @@ function addToHomeScreen() {
     alert("Para agregar a la pantalla de inicio, utiliza la opción del navegador.");
   }
 }
+
 
 
 
