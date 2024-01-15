@@ -184,6 +184,11 @@ span{
     border-radius: 8px;
 }
 
+.btn_aplicacion:hover{
+    background-color: #1e9fc0 !important;
+    color: white !important;
+}
+
 
 
 
