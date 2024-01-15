@@ -171,7 +171,7 @@ span{
 
 .nuestrologo {
     width: 70px !important;
-    margin-left: auto; /* Alinea la imagen a la derecha */
+    margin-left: auto; 
     display: block; /* Evita que la imagen se superponga a otras */
     margin-top: -40px !important;
 }
