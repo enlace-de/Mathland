@@ -24,8 +24,7 @@
 .logoCabecera {
     width: 100%; /* Establece el ancho al 100% */
     height: auto;
-    /*border: 3px solid #1c2741;*/
-    /*animation: girar 1s linear; /* Duración y efecto de la animación */
+  
 }
 .animacion {
     animation: girar 1s linear;
